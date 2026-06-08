@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "movie_pages": 2000,
+  "category_pages": 10,
+  "total_html_pages": 2014,
+  "m3u8_sources_extracted_from_original_js": 20,
+  "analytics_missing_pages": 0,
+  "included_image_files": 0,
+  "category_distribution": {
+    "国产热剧": 200,
+    "都市情感": 200,
+    "悬疑刑侦": 200,
+    "古装历史": 200,
+    "爱情甜宠": 200,
+    "喜剧家庭": 200,
+    "奇幻科幻": 200,
+    "动作犯罪": 200,
+    "青春校园": 200,
+    "惊悚恐怖": 200
+  }
+}
